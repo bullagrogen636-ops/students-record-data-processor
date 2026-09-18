@@ -1,0 +1,22 @@
+{
+  "totalStudents": 30,
+  "overallAverage": 87.12,
+  "topStudent": {
+    "name": "Tony Stark",
+    "averageGrade": 99.25
+  },
+  "courseBreakdown": [
+    {
+      "course": "BSCS",
+      "averageGrade": 88.58
+    },
+    {
+      "course": "BSIS",
+      "averageGrade": 88.19
+    },
+    {
+      "course": "BSIT",
+      "averageGrade": 84.73
+    }
+  ]
+}
